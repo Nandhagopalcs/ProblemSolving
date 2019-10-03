@@ -13,7 +13,7 @@
 
 ```
 1. Put your solution insdie SOLUTIONS folder.
-2. Put the [PROBLEM_NAME].[PROGRAMMING_LANGUAGE_EXTENTION].
+2. Put the [PROBLEM_NAME].jjjjjjjjj[PROGRAMMING_LANGUAGE_EXTENTION].
 Example: Problem01.java
 ```
 
